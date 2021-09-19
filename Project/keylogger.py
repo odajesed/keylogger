@@ -39,7 +39,7 @@ screenshot_information = "screenshot.png"
 
 
 
-file_path = "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Python\\Project"
+file_path = ""
 extend = "\\"
 file_merge = file_path + extend
 

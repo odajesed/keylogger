@@ -1,4 +1,0 @@
-Public IP Address 200.152.99.144
-Processor: AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD
-System: Windows 10.0.19043
-Private Ip Address: 192.168.56.1
